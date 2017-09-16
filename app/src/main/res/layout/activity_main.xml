@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.example.emery.eflowlayout.FLowLayout
+        android:id="@+id/fl_tvs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello,hi" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="sdfsfsfd"
+            android:textSize="18sp"
+            />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello,man" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="helloview" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="view" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="dsdsf"
+            android:textSize="20sp"
+            />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="he" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="textview" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="view" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello,view" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hello,mt" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hel" />
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hel" />
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="hel2" />
+
+    </com.example.emery.eflowlayout.FLowLayout>
+    <com.example.emery.eflowlayout.FLowTextLayout
+        android:id="@+id/fl_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.example.emery.eflowlayout.FLowTextLayout>
+
+
+</LinearLayout>
